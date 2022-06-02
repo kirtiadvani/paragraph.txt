@@ -4,28 +4,13 @@
 <body>
 
 <h1>This is heading 1</h1>
-<p>
-my name is kirti advani
-<p/>
 <h2>This is heading 2</h2>
-<p>
-i love to dance
-<p/>
 <h3>This is heading 3</h3>
-<p>
-i love reading novels
-<p/>
 <h4>This is heading 4</h4>
-<p>
-i love to be independent
-<p/>
 <h5>This is heading 5</h5>
-<p>
-i love making new friends
-<p/>
 <h6>This is heading 6</h6>
-<p>
-i love travelling
-<p/>
-</body>
+<h7>This is heading 7</h7>
+<h8>This is heading 8</h8>
+
+</body
 </html>
